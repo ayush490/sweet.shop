@@ -30,7 +30,8 @@ sweet-shop/
 
 
 ```bash
-git clone https://github.com/your-username/sweet-shop.git
+git clone https://github.com/ayush490/sweet-shop.git
+
 cd sweet-shop
 
 pip install -r requirements.txt
