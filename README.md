@@ -7,10 +7,15 @@ A terminal-based application to manage a sweet shop's inventory using Python and
 ## Project Structure
 
 sweet-shop/
+
 ├── sweet_app.py # Main application logic
+
 ├── test_sweets.py # Unit tests
+
 ├── sweet_data2.csv # Inventory CSV file
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 
